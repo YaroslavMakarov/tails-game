@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tails-game/static/css/main.d02d410a.chunk.css",
+    "main.js": "/tails-game/static/js/main.7e7ba840.chunk.js",
+    "main.js.map": "/tails-game/static/js/main.7e7ba840.chunk.js.map",
+    "runtime-main.js": "/tails-game/static/js/runtime-main.91f07405.js",
+    "runtime-main.js.map": "/tails-game/static/js/runtime-main.91f07405.js.map",
+    "static/js/2.bf75c2e2.chunk.js": "/tails-game/static/js/2.bf75c2e2.chunk.js",
+    "static/js/2.bf75c2e2.chunk.js.map": "/tails-game/static/js/2.bf75c2e2.chunk.js.map",
+    "index.html": "/tails-game/index.html",
+    "precache-manifest.14913be5239d423939adeb25d46983e1.js": "/tails-game/precache-manifest.14913be5239d423939adeb25d46983e1.js",
+    "service-worker.js": "/tails-game/service-worker.js",
+    "static/css/main.d02d410a.chunk.css.map": "/tails-game/static/css/main.d02d410a.chunk.css.map",
+    "static/js/2.bf75c2e2.chunk.js.LICENSE.txt": "/tails-game/static/js/2.bf75c2e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91f07405.js",
+    "static/js/2.bf75c2e2.chunk.js",
+    "static/css/main.d02d410a.chunk.css",
+    "static/js/main.7e7ba840.chunk.js"
+  ]
+}

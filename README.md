@@ -6,4 +6,5 @@ Technologies:
 * CSS(SCSS)
 * BEM
 * React/Redux
+* TypeScript
 * Local Storage

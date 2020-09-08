@@ -1,0 +1,60 @@
+@import "../../commonStyles/_commonStyles.scss";
+
+.start-game {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(to right, #0b486b, #f56217);
+
+  &__container {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__input-description {
+    font-size: 25px;
+    color: white;
+    margin-bottom: 15px;
+  }
+
+  &__input-wrapper {
+    position: relative;
+  }
+
+  &__input {
+    display: block;
+    box-sizing: border-box;
+    width: 220px;
+    height: 50px;
+    margin-bottom: 30px;
+    padding: 5px 5px 5px 20px;
+    font-size: 18px;
+    font-style: italic;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    color: #0b486b;
+  }
+
+  &__nickname-alarm {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    color: darkred;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+  &__button {
+    display: block;
+    @extend %button;
+  }
+}

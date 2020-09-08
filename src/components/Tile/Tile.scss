@@ -1,0 +1,20 @@
+.tile {
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+  transition: transform 0.3s;
+  cursor: pointer;
+
+  &__found {
+    animation: disappearTile 0.3s linear both;
+  }
+}
+
+@keyframes disappearTile {
+  0% {
+    transform: rotate(0) scale(1);
+  }
+  100% {
+    transform: rotate(360deg) scale(0);
+  }
+}

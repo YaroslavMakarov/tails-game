@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tails-game/static/css/main.d02d410a.chunk.css",
-    "main.js": "/tails-game/static/js/main.7e7ba840.chunk.js",
-    "main.js.map": "/tails-game/static/js/main.7e7ba840.chunk.js.map",
-    "runtime-main.js": "/tails-game/static/js/runtime-main.91f07405.js",
-    "runtime-main.js.map": "/tails-game/static/js/runtime-main.91f07405.js.map",
-    "static/js/2.bf75c2e2.chunk.js": "/tails-game/static/js/2.bf75c2e2.chunk.js",
-    "static/js/2.bf75c2e2.chunk.js.map": "/tails-game/static/js/2.bf75c2e2.chunk.js.map",
-    "index.html": "/tails-game/index.html",
-    "precache-manifest.14913be5239d423939adeb25d46983e1.js": "/tails-game/precache-manifest.14913be5239d423939adeb25d46983e1.js",
-    "service-worker.js": "/tails-game/service-worker.js",
-    "static/css/main.d02d410a.chunk.css.map": "/tails-game/static/css/main.d02d410a.chunk.css.map",
-    "static/js/2.bf75c2e2.chunk.js.LICENSE.txt": "/tails-game/static/js/2.bf75c2e2.chunk.js.LICENSE.txt"
+    "main.css": "/tiles-game/static/css/main.d02d410a.chunk.css",
+    "main.js": "/tiles-game/static/js/main.69f419f9.chunk.js",
+    "main.js.map": "/tiles-game/static/js/main.69f419f9.chunk.js.map",
+    "runtime-main.js": "/tiles-game/static/js/runtime-main.7ec06ffc.js",
+    "runtime-main.js.map": "/tiles-game/static/js/runtime-main.7ec06ffc.js.map",
+    "static/js/2.759d275f.chunk.js": "/tiles-game/static/js/2.759d275f.chunk.js",
+    "static/js/2.759d275f.chunk.js.map": "/tiles-game/static/js/2.759d275f.chunk.js.map",
+    "index.html": "/tiles-game/index.html",
+    "precache-manifest.4570e0b4c113f7d453a10b8d3cf5a3ac.js": "/tiles-game/precache-manifest.4570e0b4c113f7d453a10b8d3cf5a3ac.js",
+    "service-worker.js": "/tiles-game/service-worker.js",
+    "static/css/main.d02d410a.chunk.css.map": "/tiles-game/static/css/main.d02d410a.chunk.css.map",
+    "static/js/2.759d275f.chunk.js.LICENSE.txt": "/tiles-game/static/js/2.759d275f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.91f07405.js",
-    "static/js/2.bf75c2e2.chunk.js",
+    "static/js/runtime-main.7ec06ffc.js",
+    "static/js/2.759d275f.chunk.js",
     "static/css/main.d02d410a.chunk.css",
-    "static/js/main.7e7ba840.chunk.js"
+    "static/js/main.69f419f9.chunk.js"
   ]
 }

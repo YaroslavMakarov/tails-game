@@ -1,5 +1,6 @@
 import React, { useState, Dispatch } from "react";
 import { useDispatch, useSelector } from "react-redux";
+import { v4 as uuidv4 } from 'uuid';
 import './RestartGame.scss';
 import { AllTilesAction, changeAllFindCoupleStatus } from "../../redux/tilesStore/tilesStore";
 import { AllCountAction, clearCount } from "../../redux/counterStore/counterStore";
@@ -25,6 +26,7 @@ const RestartGame = () => {
             {
                 name: name,
                 steps: count,
+                id: uuidv4(),
             }
         ))
     };
@@ -33,6 +35,7 @@ const RestartGame = () => {
             {
                 name: name,
                 steps: count,
+                id: uuidv4(),
             }
         ));
         setIsResults(true);
@@ -61,10 +64,14 @@ const RestartGame = () => {
                     Latest results :
                 </div>
                 {results.map((result, index) => (
-                    <Results
-                        result={result}
-                        index={index}
-                    />
+                    <div
+                        key={result.id}
+                    >
+                        <Results
+                            result={result}
+                            index={index}
+                        />
+                    </div>
                 ))}
                 <button
                     className="restart__results-button restart__button"

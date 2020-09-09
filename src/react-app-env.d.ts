@@ -8,4 +8,5 @@ interface Tile {
 interface Result {
     name: string;
     steps: number;
+    id: string;
 }

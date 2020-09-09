@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tiles-game/static/css/main.d02d410a.chunk.css",
-    "main.js": "/tiles-game/static/js/main.69f419f9.chunk.js",
-    "main.js.map": "/tiles-game/static/js/main.69f419f9.chunk.js.map",
+    "main.js": "/tiles-game/static/js/main.949373d2.chunk.js",
+    "main.js.map": "/tiles-game/static/js/main.949373d2.chunk.js.map",
     "runtime-main.js": "/tiles-game/static/js/runtime-main.7ec06ffc.js",
     "runtime-main.js.map": "/tiles-game/static/js/runtime-main.7ec06ffc.js.map",
     "static/js/2.759d275f.chunk.js": "/tiles-game/static/js/2.759d275f.chunk.js",
     "static/js/2.759d275f.chunk.js.map": "/tiles-game/static/js/2.759d275f.chunk.js.map",
     "index.html": "/tiles-game/index.html",
-    "precache-manifest.4570e0b4c113f7d453a10b8d3cf5a3ac.js": "/tiles-game/precache-manifest.4570e0b4c113f7d453a10b8d3cf5a3ac.js",
+    "precache-manifest.3446efeaab6ce1a7d8cd57b44bf90ee7.js": "/tiles-game/precache-manifest.3446efeaab6ce1a7d8cd57b44bf90ee7.js",
     "service-worker.js": "/tiles-game/service-worker.js",
     "static/css/main.d02d410a.chunk.css.map": "/tiles-game/static/css/main.d02d410a.chunk.css.map",
     "static/js/2.759d275f.chunk.js.LICENSE.txt": "/tiles-game/static/js/2.759d275f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7ec06ffc.js",
     "static/js/2.759d275f.chunk.js",
     "static/css/main.d02d410a.chunk.css",
-    "static/js/main.69f419f9.chunk.js"
+    "static/js/main.949373d2.chunk.js"
   ]
 }

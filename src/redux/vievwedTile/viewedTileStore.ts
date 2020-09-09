@@ -36,7 +36,7 @@ const viewedTailReducer = (state = initialViewedTileState, action: AllViewedTile
     switch (action.type) {
         case SET_VIEWED_TILE:
             return {
-            viewedTile: [...state.viewedTile, action.viewedTile]
+            viewedTile: [...state.viewedTile, action.viewedTile],
         };
         case REMOVE_ALL_TILES: return {
             viewedTile: [],
